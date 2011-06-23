@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MFAutoDiff", "MFAutoDiff\MFAutoDiff.csproj", "{1C4C3EB0-B20C-4328-B914-8280724D7693}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDiff", "..\AutoDiff\AutoDiff.csproj", "{62551FD3-C21F-4E16-A7FC-6A017508809C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C4C3EB0-B20C-4328-B914-8280724D7693}.Debug|x86.ActiveCfg = Debug|x86
+		{1C4C3EB0-B20C-4328-B914-8280724D7693}.Debug|x86.Build.0 = Debug|x86
+		{1C4C3EB0-B20C-4328-B914-8280724D7693}.Release|x86.ActiveCfg = Release|x86
+		{1C4C3EB0-B20C-4328-B914-8280724D7693}.Release|x86.Build.0 = Release|x86
+		{62551FD3-C21F-4E16-A7FC-6A017508809C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{62551FD3-C21F-4E16-A7FC-6A017508809C}.Debug|x86.Build.0 = Debug|Any CPU
+		{62551FD3-C21F-4E16-A7FC-6A017508809C}.Release|x86.ActiveCfg = Release|Any CPU
+		{62551FD3-C21F-4E16-A7FC-6A017508809C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MFAutoDiff\MFAutoDiff.csproj
+	EndGlobalSection
+EndGlobal
